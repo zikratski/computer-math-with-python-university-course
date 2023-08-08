@@ -18,4 +18,4 @@
 1. Клонируйте репозиторий на свой компьютер:
 
 ```bash
-git clone https://github.com/ваш-пользователь/ваш-репозиторий.git
+git clone https://github.com/zikratski/computer-math-with-python-university-course.git
